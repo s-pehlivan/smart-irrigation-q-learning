@@ -55,7 +55,7 @@ Bir bölümün (episode) ne zaman sonlanacağını belirlemek için üç farklı
 
 **Başarı:**
 
-Bütün hücreler yeşil olursa ajan başarılı bir şekilde görevi gerçekleştirdiğinden bölüm sonlandırılır. (Positive Reward) Bu seviyeye ulaşmak için bütün hücrelerdeki nem seviyesinin %40-%70 aralığında olması beklenir.
+Bütün hücreler yeşil olursa ajan başarılı bir şekilde görevi gerçekleştirdiğinden bölüm sonlandırılır. (Positive Reward) Bu seviyeye ulaşmak için hücrelerin %80'inde nem seviyesinin %40-%70 aralığında olması beklenir.
 
 **Başarısızlık:** 
 
